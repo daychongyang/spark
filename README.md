@@ -21,4 +21,5 @@ $ rustup toolchain install
 
 ## 参考资料
 
+- [Rust 语言圣经](https://course.rs/about-book.html)
 - [通过例子学 Rust 中文版](https://rustwiki.org/zh-CN/rust-by-example/)
